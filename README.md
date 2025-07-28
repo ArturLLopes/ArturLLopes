@@ -14,11 +14,11 @@ Com a curiosidade de um iniciante e a experiência de um veterano, estou redesco
 
 ### Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,java,spring,docker,postgresql,mysql,git,github" alt="Tech Stack"/>
+  </a>
+</p>
 
  <div>
    <a href="https://github.com/ArturLLopes">
@@ -35,5 +35,6 @@ Com a curiosidade de um iniciante e a experiência de um veterano, estou redesco
 <div> 
   
 <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 70px; height: 40px;" target="_blank"></a>
-<a href="https://www.dio.me/users/arturllopes" target="_blank"><img src="https://camo.githubusercontent.com/544a747738aa280878b3b2c474093826ac357401abf85498672660d26e6e7315/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67" style="width: 70px; height: 40px;" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.dio.me/users/arturllopes" target="_blank"><img src="https://camo.githubusercontent.com/544a747738aa280878b3b2c474093826ac357401abf85498672660d26e6e7315/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67" style="width: 50px; height: 40px;" target="_blank"></a>
 </div>
