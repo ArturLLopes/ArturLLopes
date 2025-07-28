@@ -16,14 +16,21 @@ Com a curiosidade de um iniciante e a experiência de um veterano, estou redesco
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,java,spring,docker,postgresql,mysql,git,github" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,spring,docker,postgresql,mysql,git,github" alt="Tech Stack"/>
   </a>
 </p>
 
- <div>
-   <a href="https://github.com/ArturLLopes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturLLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLLopes&layout=compact&langs_count=6&theme=tokyonight"/>
+### Estatísticas
+
+
+<div align="center">
+  
+  <a href="https://github.com/ArturLLopes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLLopes&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/ArturLLopes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturLLopes&show_icons=true&theme=radical"/>
+  </a>
 </div>
     
 
