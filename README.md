@@ -31,9 +31,14 @@ Com a curiosidade de um iniciante e a experiência de um veterano, estou redesco
   <a href="https://github.com/ArturLLopes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturLLopes&show_icons=true&theme=radical"/>
   </a>
-</div>
-    
 
+    
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturLLopes/ArturLLopes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArturLLopes/ArturLLopes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArturLLopes/ArturLLopes/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
  
 <br>
  
@@ -45,3 +50,6 @@ Com a curiosidade de um iniciante e a experiência de um veterano, estou redesco
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.dio.me/users/arturllopes" target="_blank"><img src="https://camo.githubusercontent.com/544a747738aa280878b3b2c474093826ac357401abf85498672660d26e6e7315/68747470733a2f2f6865726d65732e6469676974616c696e6e6f766174696f6e2e6f6e652f6173736574732f64696f6d652f6c6f676f2d6d696e696d697a65642e706e67" style="width: 50px; height: 40px;" target="_blank"></a>
 </div>
+
+
+
